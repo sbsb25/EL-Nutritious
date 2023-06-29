@@ -2,7 +2,7 @@
 //  Persistence.swift
 //  EL Nutritious
 //
-//  Created by Nitin Bhilkar on 6/20/23.
+//  Created by Shriyadita Bhilkar on 6/20/23.
 //
 
 import CoreData

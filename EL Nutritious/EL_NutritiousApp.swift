@@ -2,7 +2,7 @@
 //  EL_NutritiousApp.swift
 //  EL Nutritious
 //
-//  Created by Nitin Bhilkar on 6/20/23.
+//  Created by Shriyadita Bhilkar on 6/20/23.
 //
 
 import SwiftUI
@@ -17,4 +17,5 @@ struct EL_NutritiousApp: App {
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
+        
 }
