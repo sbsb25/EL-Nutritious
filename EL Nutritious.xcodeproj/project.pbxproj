@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D564521D2A47E6980032ED42 /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = D564521C2A47E6980032ED42 /* GoogleSignIn */; };
 		D564521F2A47E6980032ED42 /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = D564521E2A47E6980032ED42 /* GoogleSignInSwift */; };
+		D5AB3A862A4FCF7200B8B168 /* WidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5AB3A852A4FCF7200B8B168 /* WidgetView.swift */; };
 		D5AEC0A72A4242C300126192 /* EL_NutritiousApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5AEC0A62A4242C300126192 /* EL_NutritiousApp.swift */; };
 		D5AEC0A92A4242C300126192 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5AEC0A82A4242C300126192 /* ContentView.swift */; };
 		D5AEC0AB2A4242C500126192 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5AEC0AA2A4242C500126192 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D5AB3A852A4FCF7200B8B168 /* WidgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetView.swift; sourceTree = "<group>"; };
 		D5AEC0A32A4242C300126192 /* EL Nutritious.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EL Nutritious.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5AEC0A62A4242C300126192 /* EL_NutritiousApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EL_NutritiousApp.swift; sourceTree = "<group>"; };
 		D5AEC0A82A4242C300126192 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				D5AEC0A62A4242C300126192 /* EL_NutritiousApp.swift */,
 				D5AEC0A82A4242C300126192 /* ContentView.swift */,
 				D5CA8EE02A4E1D30005B9F06 /* HomePageView.swift */,
+				D5AB3A852A4FCF7200B8B168 /* WidgetView.swift */,
 				D5AEC0AA2A4242C500126192 /* Assets.xcassets */,
 				D5AEC0AF2A4242C500126192 /* Persistence.swift */,
 				D5AEC0B12A4242C500126192 /* EL_Nutritious.xcdatamodeld */,
@@ -214,6 +217,7 @@
 			files = (
 				D5AEC0B32A4242C500126192 /* EL_Nutritious.xcdatamodeld in Sources */,
 				D5CA8EDD2A4DF96A005B9F06 /* KeyboardViewController.swift in Sources */,
+				D5AB3A862A4FCF7200B8B168 /* WidgetView.swift in Sources */,
 				D5AEC0B02A4242C500126192 /* Persistence.swift in Sources */,
 				D5AEC0A92A4242C300126192 /* ContentView.swift in Sources */,
 				D5CA8EE12A4E1D30005B9F06 /* HomePageView.swift in Sources */,

@@ -71,7 +71,7 @@ struct ContentView: View {
                             .frame(width: 300, height: 50)
                             .background(Color("coralLight"))
                             .cornerRadius(12)
-                        //why it only says sign...
+                        
                    
                     }
                    
